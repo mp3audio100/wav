@@ -1,0 +1,7 @@
+{
+  "cuentas": [
+    { "cuenta": "demo",  "clave": "1234",   "hasta": "2026-12-31" },
+    { "cuenta": "jose",  "clave": "jose01", "hasta": "2027-01-15" },
+    { "cuenta": "admin", "clave": "CAMBIA-ESTO" }
+  ]
+}
