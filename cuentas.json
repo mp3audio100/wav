@@ -2,9 +2,9 @@
   "cuentas": [
     { "cuenta": "demo",  "clave": "1234",   "hasta": "2026-12-31" },
     { "cuenta": "jose",  "clave": "jose01", "hasta": "2027-01-15" },
-        { "cuenta": "qw",  "clave": "123q", "hasta": "2027-01-15" },
-    { "cuenta": "jose",  "clave": "jose02", "hasta": "2027-01-15" },
-        { "cuenta": "jose",  "clave": "jose03", "hasta": "2027-01-15" },
+    { "cuenta": "qw",  "clave": "123q", "hasta": "2027-01-15" },
+    { "cuenta": "Jose",  "clave": "jose02", "hasta": "2027-01-16" },
+    { "cuenta": "jose",  "clave": "jose03", "hasta": "2027-01-15" },
     { "cuenta": "admin", "clave": "CAMBIA-ESTO" }
   ]
 }
